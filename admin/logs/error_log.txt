@@ -1,0 +1,2 @@
+[09-Jul-2019 13:15:58 Africa/Cairo] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\bprotrader\app\admin\inc\connection.php on line 15
+[28-Jul-2019 22:40:55 Africa/Cairo] PHP Warning:  Use of undefined constant png - assumed 'png' (this will throw an Error in a future version of PHP) in /Applications/XAMPP/xamppfiles/htdocs/bprotrader/bpro/app/admin/close_data.php on line 34

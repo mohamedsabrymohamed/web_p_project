@@ -1,0 +1,61 @@
+.wt, .linav li a {
+    color: white !important;
+}
+.card{
+    text-align: center;
+}
+.boks{
+    margin: 30px 10px 65px 10px;
+}
+ul, li {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    padding: 15px 0;
+    border-bottom: 1px solid #e4e4e4;
+    background: #292929;
+}
+
+header .menu li {
+    display: inline-block;
+}
+
+.logo, .logo:hover, .logo:focus {
+    font-size: 20px;
+    font-weight: bolder;
+    color: #fff;
+}
+
+.add-actions {
+    margin-bottom: 40px;
+}
+
+.btn-add {
+    margin-top: 22px;
+}
+
+.page_padding {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.footer {
+    padding: 8px 0;
+    color: #fff;
+    background-color: #333;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+
+.p_warning{
+    text-align: center;
+    font-size: larger;
+    padding-top: 3%;
+    color: red;
+}
